@@ -1,7 +1,5 @@
 ### User Repos Grabber
 
-Live Version
-
 [Live Version][live]
 
 [live]: http://willjohnson.tech/UserReposGrabber
